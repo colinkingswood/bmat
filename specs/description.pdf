@@ -1,0 +1,941 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 5 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+5 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /Contents 23 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+7 0 obj
+<< /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+8 0 obj
+<< /Outlines 10 0 R /PageLabels 25 0 R /PageMode /UseNone /Pages 21 0 R /Type /Catalog >>
+endobj
+9 0 obj
+<< /Author () /CreationDate (D:20150424153625-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title () >>
+endobj
+10 0 obj
+<< /Count 11 /First 11 0 R /Last 13 0 R /Type /Outlines >>
+endobj
+11 0 obj
+<< /Dest [ 4 0 R /XYZ 62.69291 765.0236 0 ] /Next 12 0 R /Parent 10 0 R /Title (Description) >>
+endobj
+12 0 obj
+<< /Dest [ 4 0 R /XYZ 62.69291 354.0236 0 ] /Next 13 0 R /Parent 10 0 R /Prev 11 0 R /Title (Deliverable) >>
+endobj
+13 0 obj
+<< /Count 7 /Dest [ 6 0 R /XYZ 62.69291 765.0236 0 ] /First 14 0 R /Last 20 0 R /Parent 10 0 R /Prev 12 0 R 
+  /Title (Specifications) >>
+endobj
+14 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 550.8236 0 ] /Next 15 0 R /Parent 13 0 R /Title (add_channel) >>
+endobj
+15 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 487.6236 0 ] /Next 16 0 R /Parent 13 0 R /Prev 14 0 R /Title (add_performer) >>
+endobj
+16 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 424.4236 0 ] /Next 17 0 R /Parent 13 0 R /Prev 15 0 R /Title (add_song) >>
+endobj
+17 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 317.2236 0 ] /Next 18 0 R /Parent 13 0 R /Prev 16 0 R /Title (add_play) >>
+endobj
+18 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 765.0236 0 ] /Next 19 0 R /Parent 13 0 R /Prev 17 0 R /Title (get_song_plays) >>
+endobj
+19 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 581.8236 0 ] /Next 20 0 R /Parent 13 0 R /Prev 18 0 R /Title (get_channel_plays) >>
+endobj
+20 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 398.6236 0 ] /Parent 13 0 R /Prev 19 0 R /Title (get_top) >>
+endobj
+21 0 obj
+<< /Count 3 /Kids [ 4 0 R 6 0 R 7 0 R ] /Type /Pages >>
+endobj
+22 0 obj
+<< /Length 8982 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.116905 Tw (Your company wants to test its music fingerprinting algorithms by implementing a monitoring system) Tj T* 0 Tw (which will detect and display the music broadcast on radio stations across the world.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.407126 Tw (The fingerprinting team is responsible for building an infrastructure to download radio streams and run) Tj T* 0 Tw .290542 Tw (their algorithms to automatically detect what is being played on a given radio station at a given time. Your) Tj T* 0 Tw (job is to help them store their results in a database.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The following information needs to be stored:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (radio stations, identified by their \(unique\) names) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (performers, also identified by their names \(which you may assume is unique\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (songs, identified by their names and their performer) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (plays, identified by a song, a radio station, start and end time \(with a precision to the second\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The fingerprint team need to be able to do the following things:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (insert a new radio station) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (insert a new artist) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (insert a new song) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (insert a new play) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (get all the plays for a given song between two dates) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (get all the songs played on a given channel between two dates) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+Q
+q
+1 0 0 1 62.69291 414.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .604985 Tw (The chief of product walks into your meeting by mistake and, after hearing your conversation, decides to) Tj T* 0 Tw (add the following requirement in order to impress potential customers:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 408.0236 cm
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .277262 Tw (get a top 40 for a given week and a list of channels: a list of 40 songs ordered by the number of) Tj T* 0 Tw .943059 Tw (times they were broadcast. For each song, provide their performer, playcount and the position) Tj T* 0 Tw (they had the previous week.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+Q
+q
+1 0 0 1 62.69291 333.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Deliverable) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 291.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .744724 Tw (What you are asked to provide is a web service that will allow the fingerprint team to use your software.) Tj T* 0 Tw 1.003876 Tw (The web service will listen to a port, will answer to GET / POST requests and return JSON dictionaries) Tj T* 0 Tw (\(specs below\). You might want to use the provided script to test your code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 237.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .421318 Tw (You can implement this prototype using the database and programming language of your choice, as long) Tj T* 0 Tw .97683 Tw (as they are free and available on linux. So, if you want to use Emacs Lisp as a programming language) Tj T* 0 Tw 1.38683 Tw (and a text file as a database, this is fine; however, we ask you to motivate your decision. Also, install) Tj T* 0 Tw (notes and instructions on how to run your code would be nice.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 219.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Together with the source code for your program, we also ask you to answer a few questions:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 213.0236 cm
+Q
+q
+1 0 0 1 62.69291 111.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 96 cm
+Q
+q
+1 0 0 1 20 96 cm
+Q
+q
+1 0 0 1 20 84 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tell us about your design choices, and why you made them) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .370651 Tw (What you provided is a prototype and therefore not a production ready software. But, of course,) Tj T* 0 Tw 2.165697 Tw (the marketing team doesn't know about that and already sold the finished product to three) Tj T* 0 Tw 1.391235 Tw (different customers. What do you think needs to be improved in your software in order to be) Tj T* 0 Tw (used in production?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .707318 Tw (How do you think your program would behave if the fingerprint team starts going crazy, inserts) Tj T* 0 Tw (ten million songs and starts monitoring two thousand channels?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 111.0236 cm
+Q
+ 
+endstream
+endobj
+23 0 obj
+<< /Length 5553 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Specifications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 726.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To makes things simpler, all strings are UTF-8 encoded and all dates are in UTC, in the ISO 8601 format.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+q
+BT 1 0 0 1 0 50 Tm .514274 Tw 12 TL /F1 10 Tf 0 0 0 rg (We provide a test script to help you check that your code is running fine. To run this script, you will need) Tj T* 0 Tw .169513 Tw (python >) Tj (= 2.7; you can run it with the --add-data argument the first time you use it in order to import some) Tj T* 0 Tw .930574 Tw (random performers, songs and plays. It will make calls to your web service and check that the returned) Tj T* 0 Tw 1.110542 Tw (values are the ones expected. If you think there's something wrong in the script, just mention it in your) Tj T* 0 Tw (answers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The results should be json dictionaries, following this pattern:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+Q
+q
+1 0 0 1 62.69291 610.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 448.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 .75 36 12 re f*
+.960784 .960784 .862745 rg
+n 42 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 78 .75 12 12 re f*
+.960784 .960784 .862745 rg
+n 96 .75 24 12 re f*
+.960784 .960784 .862745 rg
+n 120 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 132 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 150 .75 36 12 re f*
+.960784 .960784 .862745 rg
+n 186 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 198 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 204 .75 72 12 re f*
+.960784 .960784 .862745 rg
+n 276 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 288 .75 72 12 re f*
+.960784 .960784 .862745 rg
+n 360 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 366 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 384 .75 12 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg ({) Tj 0 0 0 rg (result) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj 0 0 0 rg ({) Tj .4 .4 .4 rg (...) Tj 0 0 0 rg (},) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (code) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (errors) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj 0 0 0 rg ([) Tj 0 0 0 rg (ERROR_DESC_1) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (ERROR_DESC_2) Tj 0 0 0 rg (,) Tj .4 .4 .4 rg (...) Tj 0 0 0 rg (]}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 610.8236 cm
+Q
+q
+1 0 0 1 62.69291 580.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .634724 Tw (if "code" is 0, it means that the query was successfully processed. errors is a list of strings with potential) Tj T* 0 Tw (error messages \(optional, only present if the code is different from 0\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 562.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here are the calls it performs:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 532.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (add_channel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 499.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (POST /add_channel, data={name: 'channel_name'}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 469.6236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (add_performer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 436.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (POST /add_performer, data={name: 'performer'}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 406.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (add_song) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 361.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL (POST /add_song, data={title: 'song_name',) Tj T* (                      performer: 'performer_name'}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 329.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .249036 Tw (In the last call, if the performer does not exist, insert it. In all the previous three cases, if the entity already) Tj T* 0 Tw (exists, just ignore the call.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 299.2236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (add_play) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 218.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F3 10 Tf 12 TL (POST /add_play, data={title: 'song_name',) Tj T* (                      performer: performer_name',) Tj T* (                      start: '2014-10-21T18:41:00',) Tj T* (                      end: '2014-10-21T18:44:00',) Tj T* (                      channel: 'channel_name'}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+24 0 obj
+<< /Length 2486 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (get_song_plays) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 593.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 144 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 122 Tm /F3 10 Tf 12 TL (GET /get_song_plays,) Tj T* (data={title: 'song_name',) Tj T* (      performer: performer_name',) Tj T* (      start: '2014-10-21T00:00:00',) Tj T* (      end: '2014-10-28T00:00:00'}) Tj T*  T* (Returns:) Tj T* ({result: [{channel: 'channel',) Tj T* (           start: '2014-01-10T01:00:00',) Tj T* (           end: '2014-01-10T01:03:00'],...],) Tj T* (           code: 0}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 563.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (get_channel_plays) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 410.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 144 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 122 Tm /F3 10 Tf 12 TL (GET /get_channel_plays,) Tj T* (    data={start: '2014-10-21T00:00:00',) Tj T* (          end: '2014-10-28T00:00:00',) Tj T* (          channel: 'channel'}) Tj T*  T* (Returns:) Tj T* ({result: [{performer: 'performer_name',) Tj T* (           title: 'title',) Tj T* (           start: '2014-10-21T00:00:00',) Tj T* (           end: '2014-10-21T00:03:00'},...],) Tj T* (           code: 0}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 380.6236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (get_top) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 203.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 168 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 146 Tm /F3 10 Tf 12 TL (GET /get_top,) Tj T* (data={channels: ['channel_name'],) Tj T* (      start: '2014-10-21T00:00:00',) Tj T* (      limit: 40}) Tj T*  T* (Returns:) Tj T* ({result: [{performer: 'performer',) Tj T* (          title: 'title',) Tj T* (          plays: plays,) Tj T* (          previous_plays: previous_plays,) Tj T* (          rank: rank,) Tj T* (          previous_rank: previous_rank], ...],) Tj T* (          code: 0}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 183.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If the song was not in the top n last week, previous rank is null and plays is 0.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+25 0 obj
+<< /Nums [ 0 26 0 R 1 27 0 R 2 28 0 R ] >>
+endobj
+26 0 obj
+<< /S /D /St 1 >>
+endobj
+27 0 obj
+<< /S /D /St 2 >>
+endobj
+28 0 obj
+<< /S /D /St 3 >>
+endobj
+xref
+0 29
+0000000000 65535 f
+0000000075 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000563 00000 n
+0000000671 00000 n
+0000000880 00000 n
+0000001089 00000 n
+0000001197 00000 n
+0000001407 00000 n
+0000001485 00000 n
+0000001600 00000 n
+0000001728 00000 n
+0000001886 00000 n
+0000002001 00000 n
+0000002131 00000 n
+0000002256 00000 n
+0000002381 00000 n
+0000002512 00000 n
+0000002646 00000 n
+0000002757 00000 n
+0000002832 00000 n
+0000011871 00000 n
+0000017481 00000 n
+0000020024 00000 n
+0000020086 00000 n
+0000020123 00000 n
+0000020160 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(C\207\205\233M<6\200s\317\372\353v\223'\347) (C\207\205\233M<6\200s\317\372\353v\223'\347)]
+ /Info 9 0 R /Root 8 0 R /Size 29 >>
+startxref
+20197
+%%EOF

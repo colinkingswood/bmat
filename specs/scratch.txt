@@ -1,0 +1,25 @@
+
+Song plays
+
+curl -H "Content-Type: application/json" -X GET -d '{ "start": "2013-10-21T00:00:00", "end" : "2015-10-28T00:00:00", "title": "Collys Song3", "performer": "Wolly"  }' http://127.0.0.1:8000/get_song_plays
+
+[
+  {"channel":"Radio Bamab",
+  "start":"2014-10-21T18:41:00Z",
+  "end":"2014-10-21T18:44:00Z",
+  "title":"Collys Song3",
+  "performer":"Wolly"
+  },
+  {"channel":"Radio Bamba",
+  "start":"2014-10-21T18:46:00Z",
+  "end":"2014-10-21T18:49:00Z","title":"Collys Song3","performer":"Wolly"},{"channel":"Radio Bamba","start":"2014-11-21T18:46:00Z","end":"2014-11-21T18:49:00Z","title":"Collys Song3","performer":"Wolly"}]
+
+
+Channel plays
+curl -H "Content-Type: application/json" -X GET -d '{ "start": "2013-10-21T00:00:00", "end" : "2015-10-28T00:00:00", "channel": "Radio Bamba"  }' http://127.0.0.1:8000/get_channel_plays
+
+Top 40
+
+data=
+
+curl -H "Content-Type: application/json" -X GET -d '{"channels": ["Radio Bamba"], "start": "2014-10-21T00:00:00", "limit": 40}' http://127.0.0.1:8000/get_top
